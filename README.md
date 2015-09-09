@@ -3,6 +3,7 @@
 Please use the [issues](https://github.com/drphilmarshall/GettingStarted/issues) to post requests for more FAQ!
 
 The [GitHub help pages](https://help.github.com/) are also very good.
+foo
 
 ## FAQ
 
